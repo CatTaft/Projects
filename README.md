@@ -4,6 +4,8 @@ All the project folders contain the Jupyter notebooks and associated files, and 
 Contents of the folders: 
 
 - DAT 475 - ANOVA, Pareto Analysis - This is a couple of projects from school where I performed ANOVA and Parento analyses to examine product defects in a hypothetical production scenario.
+  
+- Global Education - This is an end to end personal project using education data from ourworldindata.org, obtained via Kaggle. It goes through cleaning, EDA with some analysis, and an XGboost and Random Forest model. As of 1/12/24 I've finished the notebook and will be linking the Tableau public dashboard I'm working on and will upload a final report here.
 
 - MAT 303 - Stats 2 - Regression in R - This has two projects and multiple problem sets, each with a report. The entire class was focused on various regression techniques, performed with R.
 
