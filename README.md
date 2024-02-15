@@ -14,4 +14,4 @@ Contents of the folders:
 	- Project 4: Data Cleaning - this project involved taking a large amount of tweet data from the twitter account WeRateDogs through the Twitter API, wrangling and cleaning it, combining it with some external data, and performing analyses on the cleaned data. The emphasis of the project was data wrangling but the account is fun so the analysis was fun too.
 	- Project 5: Communicate Data Findings - Environmental & Social Factors of Industrialization - for this project I took data from several sources on Kaggle and Gapminder, cleaned and combined it, and performed a thorough analysis examining how various environmental and social metrics changed throughout a country's development. This was a completely self-guided capstone project.
 
-- ArcGIS - IT 242 Final Project - This project uses ArcGIS to examine population and water table data to develop an evacuation plan for Maricopa County in the event of a nuclear accident at the nuclear power plant there.
+
